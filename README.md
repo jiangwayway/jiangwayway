@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" /> 
 </div>
 
