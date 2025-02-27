@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 目前正在学习 `React` 、 `Redux` 和 `TypeScript`
 - 📫 联系方式: 1099001025@qq.com
-<img src="https://profile-counter.glitch.me/jiangwayway/count.svg" height="180" />
+<img src="https://profile-counter.glitch.me/jiangwayway/count.svg" height="40" />
 <h3>My GitHub Stats</h3>
 <div  align="left">
     <img src="https://stats.justsong.cn/api/github?username=jiangwayway" height="180" />
