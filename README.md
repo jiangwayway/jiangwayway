@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3>My GitHub Stats</h3>
 <div  align="left">
-    <img src="https://streak-stats.demolab.com/?user=jiangwayway&theme=dark" />
+    <img src="https://stats.justsong.cn/api/github?username=jiangwayway" />
     <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="140" align="right"/> 
 </div>
 
