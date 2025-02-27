@@ -41,10 +41,6 @@ Here are some ideas to get you started:
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
 
 <h3>前端技术学习系列</h3>
-- ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
- - CSS3学习
- - js系列
- - ts系列
- - react系列
+
 
 <h3>前端面试八股收集</h3>
