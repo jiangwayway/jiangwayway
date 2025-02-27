@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 目前正在学习 `React` 、 `Redux` 和 `TypeScript`
 - 📫 联系方式: 1099001025@qq.com
-
+</br>
 
 <div  align="left">
     <img src="https://count.getloli.com/@:jiangwayway?theme=gelbooru-h" alt=":jiangwayway" height="140"/>
