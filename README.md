@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3>My GitHub Stats</h3>
 <div  align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiangwayway" />
     <img src="https://count.getloli.com/@:jiangwayway?theme=gelbooru-h" alt=":jiangwayway" height="140"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="140" align="right"/> 
 </div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=jiangwayway.visitor-badge" alt="visitor badge"/>
 
 <h3>Welcome</h3>
 
