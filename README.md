@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
 </div>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello! I am Jiangvv.</h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  &nbsp;Hello! I am Jiangvv.</h2>
 
 - 🌱 目前正在学习 `React` 、 `Redux` 和 `TypeScript`
 - 📫 联系方式: 1099001025@qq.com
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
 
-<h2>前端技术学习系列</h2>
-- CSS3学习
-- js系列
-- ts系列
-- react系列
+<h3>前端技术学习系列</h3>
+ - CSS3学习
+ - js系列
+ - ts系列
+ - react系列
 
-<h2>前端面试八股收集</h2>
+<h3>前端面试八股收集</h3>
