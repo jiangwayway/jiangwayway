@@ -1,5 +1,5 @@
 ##  
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi! I am Jiangvv.</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello! I am Jiangvv.</h1>
 <h3> 👋Hey! Nice to see you. A developer in China.</h3>
 
 <!--
