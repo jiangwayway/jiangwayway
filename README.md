@@ -1,6 +1,6 @@
 ## Hi! I'm Jiangvv. 👋
 
-<h3 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I am a developer in China</h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you. I am a developer in China</h3>
 
 <!--
 **jiangwayway/jiangwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
