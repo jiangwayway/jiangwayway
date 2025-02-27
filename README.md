@@ -1,4 +1,5 @@
 ## Hi there 👋
+![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" /> 
 </div>
