@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 目前正在学习 `React` 、 `Redux` 和 `TypeScript`
 - 📫 联系方式: 1099001025@qq.com
 </br>
-
+<h3>My GitHub Stats</h3>
 <div  align="left">
     <img src="https://count.getloli.com/@:jiangwayway?theme=gelbooru-h" alt=":jiangwayway" height="140"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="140" align="right"/> 
