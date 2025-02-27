@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <h3>My GitHub Stats</h3>
 <div  align="left">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiangwayway&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84" alt="GitHub Streak" /></a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiangwayway" />
     <img src="https://count.getloli.com/@:jiangwayway?theme=gelbooru-h" alt=":jiangwayway" height="140"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="140" align="right"/> 
