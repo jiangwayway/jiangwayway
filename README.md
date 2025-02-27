@@ -1,4 +1,4 @@
-## Hi! I'm jiangvv 👋
+## Hi! I'm Jiangvv 👋
 
 <!--
 **jiangwayway/jiangwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
-- 🔭 &nbsp; 大家好，我是Wangscaler。
+- 🔭 &nbsp; 大家好，我是jiangvv。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
