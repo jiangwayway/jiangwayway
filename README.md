@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="160" align="right" /> 
 发的哈科技发挥啊看到回复阿斯蒂芬啊饭阿帆
 放大d
