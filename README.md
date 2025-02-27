@@ -1,8 +1,5 @@
-## Hi there 👋
+## Hi! I'm jiangvv 👋
 
-<img src="https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="160" align="right" /> 
 
 
 <!--
@@ -19,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 - 🔭 &nbsp; 大家好，我是Wangscaler。
