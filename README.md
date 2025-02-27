@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div  align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="160" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangwayway&layout=compact" alt="logo" height="160" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangwayway&layout=compact" alt="logo" height="120" /> 
 </div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
