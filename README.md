@@ -1,6 +1,6 @@
 ## Hi! I'm Jiangvv. 👋
 
-<h3>I am a developer in China！</h3>
+<h3 align="center">I am a developer in China！</h3>
 
 <!--
 **jiangwayway/jiangwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
