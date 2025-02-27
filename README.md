@@ -2,7 +2,7 @@
 ![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
 
 
-<div align="right">
+<div float="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" /> 
 </div>
 发的哈科技发挥啊看到回复阿斯蒂芬啊饭阿帆
