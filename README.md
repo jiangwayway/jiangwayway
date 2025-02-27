@@ -1,11 +1,3 @@
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
-</div>
-
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello! I am Jiangvv.</h2>
-
-- 🌱 目前正在学习 `Vue3` 、 `Vite` 和 `TypeScript`
-- 📫 联系方式: 1099001025@qq.com
 <!--
 **jiangwayway/jiangwayway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
+</div>
+
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello! I am Jiangvv.</h2>
+
+- 🌱 目前正在学习 `React` 、 `Redux` 和 `TypeScript`
+- 📫 联系方式: 1099001025@qq.com
 
 
 <div  align="left">
