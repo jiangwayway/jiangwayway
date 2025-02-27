@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://count.getloli.com/@:jiangwayway?theme=gelbooru-h" alt=":jiangwayway" height="140"/>
     <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="140" align="right"/> 
 </div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=jiangwayway" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=jiangwayway.visitor-badge" alt="visitor badge"/>
 
 <h3>Welcome</h3>
 
