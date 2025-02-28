@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
 - 📫 &nbsp; 已被访问 <img src="https://profile-counter.glitch.me/jiangwayway/count.svg" height="20" /> 次
 </br>
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
+
 
 <h3>前端技术学习系列</h3>
 
