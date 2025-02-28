@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - 📫 联系方式: 1099001025@qq.com
 <h3>My GitHub Stats</h3>
 <div  align="left">
-    <img src="https://stats.justsong.cn/api/github?username=jiangwayway" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="180" align="right"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jiangwayway&show_icons=true&theme=transparent" alt="logo" height="180"/> 
+    <img src="https://stats.justsong.cn/api/github?username=jiangwayway" height="180" align="right"/>
+    
 </div>
 
 <h3>Welcome</h3>
