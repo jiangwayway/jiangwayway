@@ -43,9 +43,13 @@ Here are some ideas to get you started:
 - 📫 &nbsp; 已被访问 <img src="https://profile-counter.glitch.me/jiangwayway/count.svg" height="20" /> 次
 </br>
 
+<h3>项目汇总</h3>
+用来分享前端的基础知识点，新颖的小工具和具有含金量的项目，欢迎大家分享交流~
 
-<h3>前端技术学习系列</h3>
+- [前端技术学习篇](https://github.com/jiangwayway/Web-learning)：前端知识点汇总，包括前端三件套，框架等等
 
+- [前端面试八股篇](https://github.com/jiangwayway/Interview)：前端常见的面试题汇总
 
-<h3>前端面试八股收集</h3>
+- [底层原理解析篇]()：深入了解浏览器底层原理，js运行机制，闭包作用域详解，React框架原理
 
+- [手撕源码分享篇]()：手撕Promise源码，自己实现React框架
