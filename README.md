@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 <h3>Welcome</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/jiangwayway/Pictures/refs/heads/master/gif3.gif" width="350"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/> -->
 
 - 🔭 &nbsp; 大家好，我是jiangvv。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
