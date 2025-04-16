@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" height="180" /> -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&vCenter=true&width=435&lines=%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E6%BC%AB%E9%95%BF%EF%BC%81%E8%AE%A9%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85%E6%8C%81%E7%BB%AD%E5%8F%91%E7%94%9F%EF%BC%81" alt="Typing SVG" /></a>
+<!--     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&vCenter=true&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" height="180" /> -->
+    <img src="https://raw.githubusercontent.com/jiangwayway/Pictures/bbec923a1bdc29845f0e28ebf10190ae667c175f/gif4.svg" alt="Typing SVG" height="180" />
+    
 </div>
 
 <h2> <img src="https://raw.githubusercontent.com/jiangwayway/Pictures/refs/heads/master/dongtai.gif" width="30"/>  &nbsp;Hello! I am Jiangvv.</h2>
